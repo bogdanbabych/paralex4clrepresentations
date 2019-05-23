@@ -1,0 +1,34 @@
+
+Meaning-Text theory:
+    http://www.neuvel.net/meaningtext.htm
+    http://www.neuvel.net/PDF_files/melcukColldeFr.pdf
+    http://www.neuvel.net/PDF_files/SNLP2000.pdf
+    http://olst.ling.umontreal.ca/pdf/ECD.pdf
+    
+    
+    https://www.researchgate.net/publication/315885244_La_definition_lexicographique_selon_la_Lexicologie_Explicative_et_Combinatoire
+    
+    
+
+A machine translation reading list maintained by Tsinghua Natural Language Processing Group
+    https://github.com/THUNLP-MT/MT-Reading-List
+    
+VISL is a research and development project at the Institute of Language and Communication (ISK), University of Southern Denmark
+    https://visl.sdu.dk
+    
+Tree Editor TrEd 2.0
+    http://ufal.mff.cuni.cz/tred/
+    
+EPDF
+    https://epdf.tips/surface-syntax-of-english-a-formal-model-within-the-meaning-text-framework-a-for.html
+    https://epdf.tips/framework-for-formal-ontology.html
+    https://epdf.tips/search/meaning+text
+    https://epdf.tips
+
+    
+Semantics and Philosophy conference
+    https://spe2019.uw.edu.pl/index.html
+    
+    Counterfactuals (abstract)
+    https://spe10.files.wordpress.com/2018/12/zakkou.pdf
+    

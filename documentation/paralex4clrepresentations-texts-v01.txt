@@ -1,0 +1,47 @@
+https://spe10.files.wordpress.com/2018/12/zakkou.pdf
+Julia Zakkou: Presupposing counterfactuality
+https://spe10.com/program/
+
+Presupposing Counterfactuality
+There is long standing agreement both among philosophers and linguists that the term `counterfactual conditional' is misleading if not a misnomer. Speakers of both non-past subjunctive (or `would') conditionals and past subjunctive (or `would have') condition- als need not convey counterfactuality. The relationship between the conditionals and the counterfactuality of their antecedents is thus not one of semantic presupposing. It is one of conversationally implicating. This paper examines the arguments against the presupposition view as applied to past subjunctive conditionals (PSCs) and 􏰂nds none of them conclusive. All the relevant linguistic data, it is shown, are compatible with the assumption that PSCs presuppose the falsity of their antecedents. This 􏰂nding is not only interesting on its own. It is of vital importance both to whether we should consider antecedent counterfactuality to be part of the conventional meaning of the conditionals in question and to whether there is a deep di􏰁erence between indicative
+and subjective conditionals.
+My focus will be on Anderson's (1951) and Stalnaker's (1975) arguments against
+the presupposition view (PV), but I will also touch on cases provided by Edgington (2008) and von Fintel (1998).
+Anderson's argument is about utterances of the following kind made by a doctor at the autopsy of Jone's body:
+(1) If Jones had taken arsenic, he would have shown the same symptoms he actually
+shows. So he did not take arsenic.
+(2) If Jones had taken arsenic, he would have shown the same symptoms he actually
+shows. So he took arsenic.
+Intuitively, (1) is bad and (2) is 􏰂ne. Given PV, though, it should be the other way around􏰀or so Anderson assumes.
+I will counter this argument by defending two claims: First, if one uses a conditional with an obviously true proposition in the consequent, one provides a fairly good reason for the truth of the proposition in the antecedent; in any case, one does not provide a good reason for the falsity of the proposition in the antecedent. Second, if one uses a sentence that presupposes a given proposition, one incurs some kind of commitment regarding the proposition, but one does not by itself commit to believing it. One can thus immediately afterwards clear up that one actually believes the opposite. The 􏰂rst claim explains why (1) is bad given PV. It's because the speaker does not give a reason for what she presents as a conclusion. The second claim explains why (2) is 􏰂ne given PV. The speaker is not contradicting herself by 􏰂rst using a sentence that presupposes that Jones did not take arsenic and then asserting that Jones did take it.
+I will spell out the second claim in terms of temporary revisions of the common ground, known, among others, from the debate on whether indicative conditionals like `If Oswald didn't kill Kennedy, someone else did' presuppose the epistemic possibility of their antecedents (see Karttunen and Peters (1979), Gillies (2004), Stalnaker (2014), Leahy (2017)). Furthermore, I will provide cases which work similar to what PV
+suggests for
+(3) A:
+(4) A:
+PSCs, among others the following:
+The man with the martini is drinking something that looks, smells and tastes like water. So there is someone drinking martini.
+The man with the martini is drinking something that looks, smells and tastes like water. So there is nobody drinking martini.
+1
+Intuitively, (3) is strange and (4) is 􏰂ne. Just as this does not make us give up the as- sumption that de􏰂nite descriptions semantically presuppose the existence of something that ful􏰂lls the description, I argue, PSCs like the one provided by Anderson should not make us abandon the claim that they presuppose the falsity of their antecedents.
+Stalnaker's argument against PV is about utterances of the following sort:
+(5) If Jones had taken cocaine, he would have been dancing right now. He is not
+dancing right now. So Jones did not take cocaine.
+Intuitively, (5) is 􏰂ne. Given PV, it should be bad, though􏰀or so Stalnaker assumes: by using a sentence that presupposes that Jones did not take cocaine, the speaker would be begging the question. She would assume something that she only tries to establish in the course of her reasoning.
+In a nutshell, I object that Stalnaker's argument rests on a confusion of two senses of `presupposing.' There is not only the technical sense; there is also a perhaps more intuitive sense according to which `presupposing the conclusion' roughly means `tacitly introducing the conclusion as a premise.' The proponent of PV will happily acknowl- edge that, given the 􏰂rst sense, the conclusion is presupposed in (5). But she need not accept that this makes (5) question begging. By using a sentence that presupposes the conclusion, the speaker only anticipates the conclusion. She merely indicates the argumentative direction she is taking. Compare the following utterance which does not feature a PSC:
+(6) Jones did not take cocaine yesterday. If Jones took cocaine yesterday, he would
+be dancing right now. He is not dancing right now. So he did not take cocaine.
+(6) is like (5) in that the speaker anticipates the conclusion of the argument right at the beginning. Her argument in (6) does not sound question begging, though. So anticipating the conclusion does not make arguments question begging.
+The proponent of PV will also grant that, given the second sense of `presupposing,' presupposing the conclusion should make (5) question begging. But she need not accept the conclusion is presupposed in this sense. The claim that Jones did not take cocaine does not function as a premise in the argument. Consider the following utterance, again not featuring a PSC:
+(7) If Jones took cocaine yesterday, he would be dancing right now. He is not dancing right now. So he did not take cocaine.
+(7) di􏰁ers from (5) in that the conclusion is not presupposed. Still the argument is valid. So the claim that Jones did not take cocaine does not function as a premise of the argument􏰀neither in (7) nor in (5).
+Anderson, Alan (1951). 􏰃A note on subjunctive and counterfactual conditionals􏰄. In: Analysis 12, pp. 35􏰅38.
+Edgington, Dorothy (2008). 􏰃Counterfactuals􏰄. In: Proceedings of the Aristotelian Society 108, pp. 1􏰅 21.
+Gillies, Anthony (2004). 􏰃Epistemic conditionals and Conditional epistemics􏰄. In: Nous 38.4, pp. 585􏰅 616.
+Karttunen, Lauri and Stanley Peters (1979). 􏰃Conventional implicature􏰄. In: Syntax and Semantics vol. 11: Presupposition. Ed. by Oh Choon-Kyu and David Dinneen. New York: Academic Press, pp. 1􏰅56.
+Leahy, Brian (2017). 􏰃Counterfactual antecedent falsity and the epistemic sensitivity of counterfactu- als􏰄. In: Philosophical Studies.
+Stalnaker, Robert (1975). 􏰃Indicative conditionals􏰄. In: Philosophia 5.3, pp. 269􏰅286.
+􏰀 (2014). Context. Oxford: Oxford University Press.
+von Fintel, Kai (1998). 􏰃The presupposition of subjunctive conditionals􏰄. In: MIT Working Papers in
+Linguistics 25. Ed. by Uli Sauerland and Orin Percus. Cambridge, MA, pp. 29􏰅44.
+2
+
